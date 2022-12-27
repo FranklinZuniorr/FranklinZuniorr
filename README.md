@@ -1,7 +1,7 @@
 
 # 💫 Sobre mim:
 - Criatividade, foco, empatia, determinação, pontualidade e comprometimento são as principais características que constituem a minha pessoa, inovação é a meta que eu almejo. <br><br>
-- Html, CSS, Js, Figma, Jquery, Node.js, Bootstrap, Git/Github, Angular e React.Js são as minhas principais habilidades no atual momento.<br><br>
+- Html, CSS, Js, Figma, Jquery, Node.js, Bootstrap, Git/Github, Angular, React.Js e React Native são as minhas principais habilidades no atual momento.<br><br>
 - Ainda em processo de formação, espero que mais para frente eu possa atingir todas as minhas metas de aprendizado e obter domínio das principais ferramentas de trabalho da atualidade.
 
 
