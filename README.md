@@ -1,7 +1,6 @@
 
 # 💫 Sobre mim:
-- Criatividade, foco, empatia, determinação, pontualidade e comprometimento são as principais características que constituem a minha pessoa, inovação é a meta que eu almejo. <br><br>
-- Ainda em processo de formação, espero que mais para frente eu possa atingir todas às minhas metas de aprendizado e obter domínio das principais ferramentas de trabalho da atualidade.
+- Guiado por um espírito criativo e uma forte determinação, valorizo características como foco, empatia, pontualidade e comprometimento em minha abordagem profissional. A inovação é o meu objetivo central. Atualmente em formação, busco dominar as ferramentas e tecnologias mais relevantes do mercado, com a meta de alcançar um alto nível de competência e contribuir efetivamente para minha carreira.
 
 
 ## 🌐 Redes sociais:
